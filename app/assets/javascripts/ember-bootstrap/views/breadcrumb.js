@@ -1,3 +1,7 @@
+//= require ember-bootstrap/core
+//= require ember-bootstrap/mixins/first_last_view_support
+//= require ember-bootstrap/mixins/item_view_title_support
+
 var get = Ember.get;
 var Bootstrap = window.Bootstrap;
 

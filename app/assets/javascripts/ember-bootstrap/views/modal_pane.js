@@ -1,3 +1,5 @@
+//= require ember-bootstrap/core
+
 var get = Ember.get;
 var Bootstrap = window.Bootstrap;
 var jQuery = window.jQuery;
